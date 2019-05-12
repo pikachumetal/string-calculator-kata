@@ -1,0 +1,24 @@
+<Project>
+
+  <!-- Project Dependencies-->
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+  
+  <!-- Core Product Dependencies -->
+  <PropertyGroup>
+  </PropertyGroup>
+  
+  <!-- Unit Testing Dependencies -->
+  <PropertyGroup>
+    <MicrosoftNETTestSdk>16.1.0</MicrosoftNETTestSdk>
+    <XUnit>2.4.1</XUnit>
+    <XUnitRunnerVisualStudio>2.4.1</XUnitRunnerVisualStudio>
+  </PropertyGroup>
+
+  <!-- Other Dependencies -->
+  <PropertyGroup>
+  </PropertyGroup>
+
+</Project>

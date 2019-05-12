@@ -1,0 +1,4 @@
+<Project>
+  <!-- Directory.Build.props contains the common build settings for all projects in the repo. -->
+  <Import Project="build/Dependencies.props" />
+</Project>
